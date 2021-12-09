@@ -6,7 +6,7 @@
 "description": "contains data from job postings parsed from rekrute.com between july 2021 and september 2021",
 "source": "rekrute.com",
 "columns": ["job_title", "job_description", "job_location", "job_company", "job_url", "job_date", "job_source","job_skills"],
-"additional informations": ["skills are extracted from job description","skills are expressed as codes that are refering to emsi skills"],
+"additional informations": ["skills are extracted from job description","skills are expressed as codes that are refering to emsi skills"]
 
 }
 
